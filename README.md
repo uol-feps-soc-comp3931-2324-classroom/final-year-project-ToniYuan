@@ -6,8 +6,8 @@
 - This project was developed under Windows11 Operating System so all the related environment, libraries and dependencies was based on Windows11.
 
 - Since Github have a storage limit, all the dataset files are empty, just for a structure, all the datasets will be on the cloud:
-  - If you want to start over (from data pre-processing to the end), your will need to copy the `raw data` from cloud and match them to `data/images` and `data/labels`.
-  - If you want to start from training (all the data already pre-processed), but you want to train the model, you will need to replace `data` and `aug_data` with the file from cloud, locate section 4.4, there will be a check point, run the code blocks from there.
+  - If you want to start over (from data pre-processing to the end), your will need to open `Raw data` file from cloud and use `images` and `labels` to replace `data/images` and `data/labels` in the repo.
+  - If you want to start from training (all the data already pre-processed), but you want to train the model, you will need to find a file called `Pre-processed data`, use `data` and `aug_data` in the file to replace the file with same name in repo. After this, locate section 4.4, there will be a check point, run the code blocks from there.
   - If you just want to start use the detection system, a pre-trained model `DualTaskFaceModel.h5` is already in the repo, locate section 10 in the notebook, there will be a check point, run the code blocks from there.
  
 
