@@ -29,7 +29,7 @@ dilb
 pygame
 ```
 
-**Using anaconda to install CUDA toolkit and cudnn for Tensorflow2.0 and install Tensorflow: **
+** Using anaconda to install CUDA toolkit and cudnn for Tensorflow2.0 and install Tensorflow: **
 
 ```
 conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
