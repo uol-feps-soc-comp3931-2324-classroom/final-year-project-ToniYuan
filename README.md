@@ -55,3 +55,17 @@ https://drive.google.com/drive/folders/1mg3sZ-XKWn5LMOZVHOuB3_AOGgmutiw5
 Demo Video: 
 https://youtu.be/BjY9PPPNNMw
 
+### Data file structure:
+
+In the root(Driving Drowsiness Detection System):
+Create a file called `data`, inside `data`, create three file: `training`, `validation`, `test`, and create `images` and `labels` for each of them.
+Create a file called `aug_data`, inside `aug_data`, create three file: `training`, `validation`, `test`, and create `images` and `labels` for each of them.
+
+
+
+
+
+
+
+
+
